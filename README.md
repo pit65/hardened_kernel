@@ -1,8 +1,8 @@
-Stripped kernel for slackware 15 for standard desktop Intel and AMD processors.
+Stripped kernel for slackware 15 for standard desktop Intel and AMD processors.This works on ThinkStation 510.
 
   1.No IPv6
   
-  2.No old graphic cards and framebuffers
+  2.No old graphic cards.
   
   3.No sound PCI cards only standard HD music.
   
@@ -18,6 +18,15 @@ Stripped kernel for slackware 15 for standard desktop Intel and AMD processors.
   
   9.Ext4 built into the kernel so no need to do initrd.
   
-  10.default nls and codepage for FAT is changed so you change it to your region.
+  10.default nls and codepage  is changed so you change it to your region.
 
-  if someone need specific drivers especialy NIC,WIFI must choose it yourself. 
+Result: kernel 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
+
+  if someone need specific drivers especialy NIC,WIFI must choose it yourself.
+
+
+  HARDENED
+
+  Add some hardened options. 
+
+  Difrences are shown in two files 
