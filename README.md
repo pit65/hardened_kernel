@@ -29,4 +29,6 @@ Result: kernel 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
 
   Add some hardened options. 
 
-  Difrences are shown in two files 
+  Difrences are shown in two files : check_harden and check_stock_default.
+
+  Multilib works.
