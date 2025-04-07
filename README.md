@@ -1,4 +1,4 @@
-Stripped kernel for slackware 15 for standard desktop Intel and AMD processors.This works on ThinkStation 510.
+Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.This works on ThinkStation 510.
 
   1.No IPv6
   
