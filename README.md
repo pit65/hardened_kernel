@@ -1,4 +1,4 @@
-Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.
+## Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.
 
 5.15.179 works on ThinkStation 510 Intel Xeon.
 
@@ -33,7 +33,7 @@ Result: kernel 5.15 ...  - 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
   if someone need specific drivers especialy NIC,WIFI must choose it yourself.
 
 
-  HARDENED
+  ## HARDENED
 
   Add some hardened options from https://kspp.github.io/Recommended_Settings ,  
 https://github.com/a13xp0p0v/kernel-hardening-checker/ , https://docs.clip-os.org/clipos/kernel.html#configuration.
