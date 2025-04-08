@@ -24,8 +24,10 @@ Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD
   
   10.default nls and codepage  is changed so you change it to your region.
 
-Result: kernel 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
+Result: kernel 5.15 ...  - 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
 
+        kernel 6.12 ...  - 6.9 mb
+      
   if someone need specific drivers especialy NIC,WIFI must choose it yourself.
 
 
