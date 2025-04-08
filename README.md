@@ -18,11 +18,13 @@ Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD
   
   7.No hibernation
   
-  8.Stiped other things like bluetoth,parallel port,exotics file systems and drivers
+  8.Striped other things like bluetoth,parallel port,exotics file systems and drivers or gadgets
   
   9.Ext4 built into the kernel so no need to do initrd.
   
   10.default nls and codepage  is changed so you change it to your region.
+
+  11.Zswap is off .I use zram.
 
 Result: kernel 5.15 ...  - 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
 
