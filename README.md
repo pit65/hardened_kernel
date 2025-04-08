@@ -1,4 +1,8 @@
-Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.This works on ThinkStation 510.
+Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.
+
+5.15.179 works on ThinkStation 510 Intel Xeon.
+
+6.12.21 on Ryzen 5 5600G  and only amdgpu is selected in config.
 
   1.No IPv6
   
@@ -31,4 +35,4 @@ Result: kernel 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
 
   Difrences are shown in two files : check_harden and check_stock_default.
 
-  Multilib works.
+  Multilib works so certain hardened options are omited.
