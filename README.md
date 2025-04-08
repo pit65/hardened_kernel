@@ -26,14 +26,15 @@ Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD
 
 Result: kernel 5.15 ...  - 6 mb vs. 11.1 mb   Modules:83 mb vs 299mb.
 
-        kernel 6.12 ...  - 6.9 mb
+  kernel 6.12 ...  - 6.9 mb
       
   if someone need specific drivers especialy NIC,WIFI must choose it yourself.
 
 
   HARDENED
 
-  Add some hardened options. 
+  Add some hardened options from https://kspp.github.io/Recommended_Settings ,  
+https://github.com/a13xp0p0v/kernel-hardening-checker/ , https://docs.clip-os.org/clipos/kernel.html#configuration.
 
   Difrences are shown in two files : check_harden and check_stock_default.
 
