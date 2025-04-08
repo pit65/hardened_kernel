@@ -10,7 +10,7 @@ Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD
   
   3.No sound PCI cards only standard HD music.
   
-  4.No NIC cards ()
+  4.No NIC cards (apart from mine)
   
   5.No WIFI cards
   
