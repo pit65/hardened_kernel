@@ -1,8 +1,8 @@
 ## Stripped kernel  config file for slackware 15 for standard desktop Intel and AMD processors.
 
-5.15.179 works on ThinkStation 510 Intel Xeon.
+**5.15.179** works on ThinkStation 510 Intel Xeon.
 
-6.12.21 on Ryzen 5 5600G  and only amdgpu is selected in config.
+**6.12.21** on Ryzen 5 5600G  and only amdgpu is selected in config.
 
   1.No IPv6
   
